@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    I LOVE LARAVEL
+                    I LOVE LARAVEL hi
                 </div>
 
                 <div class="links">
